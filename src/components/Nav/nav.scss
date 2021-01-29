@@ -1,0 +1,25 @@
+.nav {
+  width: 25%;
+
+  ul {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 30px;
+  }
+
+  li {
+    margin-bottom: 30px;
+  }
+
+  a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+  }
+
+  +div {
+    width: 70%;
+  }
+}

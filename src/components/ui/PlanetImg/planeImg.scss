@@ -1,0 +1,12 @@
+.planet-img-wrap {
+  height: 150px;
+  width: 150px;
+
+  .img {
+    background: url("../../../media/planet.jpg") no-repeat center;
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+  }
+}
+

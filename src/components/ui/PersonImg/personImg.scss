@@ -1,0 +1,11 @@
+.img-wrap {
+  height: 70px;
+  width: 100px;
+}
+
+.img {
+  background: url("../../../media/person.jpg") no-repeat center;
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+}
